@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Konatsu 👋
 
-<!--
-**Konatsu0217/Konatsu0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Android engineer who loves coding and building things for the fun of it.
 
-Here are some ideas to get you started:
+💻 Working on Android apps at **ByteDance** , based in Shenzhen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Master’s degree in Mechanical Engineering from NUAA.
+
+🔬 Exploring harness engineering and software architecture in my spare time.
+
+🌱 Finding my feet in open source — here to learn, contribute, and meet fellow builders.
+
+🍺 Into beer, music, and games. Proud owner of a Fender JP Telecaster. 🎸
+
+Always happy to connect — for a collaboration, an interesting idea, or just a chat. Feel free to reach out!
