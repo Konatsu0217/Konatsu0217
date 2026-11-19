@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="162" height="34" viewBox="0 0 162 34" role="img" aria-label="Personal blog: laix.icu">
+<rect width="162" height="34" rx="8" fill="#6C5787"/>
+<g stroke="#F5EBF5" stroke-width="1.2" fill="none"><circle cx="18" cy="17" r="7"/><ellipse cx="18" cy="17" rx="3" ry="7"/><path d="M11 17H25"/></g>
+<text x="34" y="22" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">laix.icu</text>
+<path d="M137 20L145 12M139 12H145V18" fill="none" stroke="#D5BBD7" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

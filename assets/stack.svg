@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="228" viewBox="0 0 300 228" role="img" aria-label="Languages: C++, Python, Kotlin, Rust, TypeScript. Active hours: 11:30 AM to 2:30 AM the next day, UTC+8. Coffee OD. VRChat Player.">
+<rect x=".5" y=".5" width="299" height="227" rx="16" fill="#F5EBF5" stroke="#D5BBD7"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="18" y="28" font-size="12" font-weight="700" letter-spacing="1.7" fill="#6C5787">LANGUAGES</text>
+<rect x="18" y="42" width="49" height="28" rx="7" fill="#6C5787"/><text x="42.5" y="60.5" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">C++</text>
+<rect x="74" y="42" width="70" height="28" rx="7" fill="#6C5787"/><text x="109.0" y="60.5" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Python</text>
+<rect x="151" y="42" width="67" height="28" rx="7" fill="#6C5787"/><text x="184.5" y="60.5" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Kotlin</text>
+<rect x="18" y="77" width="54" height="28" rx="7" fill="#6C5787"/><text x="45.0" y="95.5" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">Rust</text>
+<rect x="79" y="77" width="94" height="28" rx="7" fill="#6C5787"/><text x="126.0" y="95.5" text-anchor="middle" font-size="12" font-weight="600" fill="#FFFFFF">TypeScript</text>
+<path d="M18 116H282" fill="none" stroke="#D5BBD7"/>
+<text x="18" y="138" font-size="11.5" font-weight="700" letter-spacing="1.5" fill="#6C5787">ACTIVE HOURS</text>
+<rect x="221" y="123" width="61" height="21" rx="6" fill="#E5D4E8"/>
+<text x="251.5" y="137.5" text-anchor="middle" font-size="11.5" font-weight="600" fill="#6C5787">UTC+8</text>
+<text x="18" y="161" font-size="14" font-weight="600" fill="#483B5B">11:30 AM – 2:30 AM<tspan dx="7" font-size="11" font-weight="400" fill="#6C5787">(+1 day)</tspan></text>
+
+<g fill="none" stroke="#A185B6" stroke-width="1.1">
+  <path d="M24 183q0 -11 5 -5q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 10 0q5 -6 5 5"/>
+  <path d="M24 211q0 11 5 5q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 10 0q5 6 5 -5"/>
+</g>
+<rect x="18" y="181" width="122" height="32" rx="8" fill="#483B5B" stroke="#BFA2C6"/>
+<rect x="21.5" y="184.5" width="115" height="25" rx="5" fill="none" stroke="#BFA2C6" stroke-width=".7" stroke-dasharray="1.5 2.2"/>
+<g transform="translate(35 196)" fill="#D5BBD7" stroke="#D5BBD7" stroke-linejoin="round">
+  <path d="M0 0C-8 -9 -11 -5 -9 0C-7 5 -3 3 0 0M0 0C8 -9 11 -5 9 0C7 5 3 3 0 0" stroke-width=".6"/>
+  <path d="M-1 1L-5 8L-1 6L1 9L2 2M2 1L5 8L7 5L10 6L4 0" stroke-width=".4"/>
+  <circle r="2" fill="#BFA2C6"/>
+</g>
+<text x="88" y="201.5" text-anchor="middle" font-size="12" font-weight="600" fill="#F5EBF5">Coffee OD</text>
+<rect x="148" y="183" width="134" height="29" rx="7" fill="#D5BBD7"/>
+<text x="215" y="201.5" text-anchor="middle" font-size="12" font-weight="600" fill="#483B5B">VRChat Player</text>
+</g></svg>
