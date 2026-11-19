@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Hi, I'm Konatsu. Android engineer and curious builder.">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5EBF5"/><stop offset="1" stop-color="#D5BBD7"/></linearGradient>
+  <clipPath id="clip"><rect width="1200" height="210" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="210" fill="url(#bg)"/>
+  <circle cx="1080" cy="25" r="158" fill="#BFA2C6" opacity=".35"/>
+  <circle cx="1160" cy="180" r="170" fill="#A185B6" opacity=".17"/>
+  <path d="M840 -45 C975 35 852 120 1030 255 M906 -40 C1040 50 927 130 1100 250" fill="none" stroke="#8B72A7" stroke-width="2" opacity=".3"/>
+  <path d="M1058 64 L1063 79 L1078 84 L1063 89 L1058 104 L1053 89 L1038 84 L1053 79Z" fill="#6C5787" opacity=".65"/>
+  <circle cx="1012" cy="144" r="4" fill="#8B72A7"/>
+  <text x="48" y="46" fill="#6C5787" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">KONATSU0217</text>
+  <text x="45" y="117" fill="#483B5B" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">Hi, I'm Konatsu.</text>
+  <text x="48" y="163" fill="#6C5787" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="20">Android engineer · Curious builder · owo</text>
+</g>
+</svg>
