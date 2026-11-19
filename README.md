@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://laix.icu">
+  <a href="https://laix26.icu">
     <img src="./assets/profile-card.png" width="100%" alt="About Konatsu — background, interests, languages, and active hours. Visit laix.icu.">
   </a>
 </p>
